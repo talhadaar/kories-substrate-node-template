@@ -1,0 +1,24 @@
+{
+  "name": "kories-substrate-node-template",
+  "version": "1.0.0",
+  "description": "[![Try on playground](https://img.shields.io/badge/Playground-Node_Template-brightgreen?logo=Parity%20Substrate)](https://docs.substrate.io/playground/) [![Matrix](https://img.shields.io/matrix/substrate-technical:matrix.org)](https://matrix.to/#/#substrate-technical:matrix.org)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "cargo test",
+    "dev:start":"./target/release/node-template --dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talhadaar/kories-substrate-node-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talhadaar/kories-substrate-node-template/issues"
+  },
+  "homepage": "https://github.com/talhadaar/kories-substrate-node-template#readme"
+}
